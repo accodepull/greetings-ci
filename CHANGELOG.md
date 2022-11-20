@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/accodepull/greetings-ci/compare/v0.2.0...v0.3.0) (2022-11-20)
+
+
+### Features
+
+* version artifact ([ccb84cd](https://github.com/accodepull/greetings-ci/commit/ccb84cd257e02862d093578165700ce8d046bbaa))
+
+
+
 # [0.2.0](https://github.com/accodepull/greetings-ci/compare/v0.1.0...v0.2.0) (2022-11-20)
 
 
